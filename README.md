@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm Leonidas Tsantarliotis
 
-🎓 I'm a graduate with an Integrated MSc in Computer Engineering & Informatics from the University of Patras.
+🎓 I'm a graduate with an Integrated MSc in Computer Engineering & Informatics from the University of Patras
 
-🚀 I'm passionate about **Web Development** and **actively seeking opportunities** to kickstart my career in this field.
+🚀 I'm passionate about **Web Development** 
 
-📚 Currently, I'm working on [The Odin Project](https://www.theodinproject.com/).
+👨‍💻 Currently, I'm working as a Backend Software Engineer at [Desquared](https://www.thinkdesquared.com/)
 
 ---
 
