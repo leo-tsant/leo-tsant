@@ -2,9 +2,9 @@
 
 🎓 I'm a graduate with an Integrated MSc in Computer Engineering & Informatics from the University of Patras
 
-🚀 I'm passionate about **Web Development** 
+🚀 I'm passionate about **AI Automation** 
 
-👨‍💻 Currently, I'm working as a Backend Software Engineer at [Desquared](https://www.thinkdesquared.com/)
+👨‍💻 Currently, I'm working as a Software Engineer at [Desquared](https://www.thinkdesquared.com/)
 
 ---
 
