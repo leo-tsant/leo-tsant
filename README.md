@@ -4,8 +4,6 @@
 
 🚀 I'm passionate about **AI Automation** 
 
-👨‍💻 Currently, I'm working as a Software Engineer at [Desquared](https://www.thinkdesquared.com/)
-
 ---
 
 🔗 Connect with me:
