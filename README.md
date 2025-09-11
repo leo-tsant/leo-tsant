@@ -12,5 +12,5 @@ I help businesses unlock the power of AI and automation through:
 ## Connect
 
 - Website: [stackflowdigital.com](https://stackflowdigital.com)
-- LinkedIn: [leonidas-tsantarliotis](https://www.linkedin.com/in/leo-tsantarliotis/)
+- LinkedIn: [leo-tsantarliotis](https://www.linkedin.com/in/leo-tsantarliotis/)
 - Schedule a call: [calendly.com/stackflowdigital](https://calendly.com/stackflowdigital/30min)
