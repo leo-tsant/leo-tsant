@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Leo
 
-Founder of **Stackflow Digital**, specializing in AI automation solutions for businesses.
+I run **Stackflow Digital**, an AI transformation partner for SMBs in Greece.
 
-## What I Do
+I don't start with tools. I map how a company actually runs, rebuild that work with AI inside it, then train the team to run it without me.
 
-I help businesses unlock the power of AI and automation through:
-- Custom AI agents
-- Intelligent workflow automation
-- Business process optimization
+I also make Greek YouTube videos on using AI in a real business, mostly Claude and Claude Code.
 
 ## Connect
 
 - Website: [stackflowdigital.com](https://stackflowdigital.com)
+- YouTube: [@leo-tsantarliotis](https://www.youtube.com/@leo-tsantarliotis)
 - LinkedIn: [leo-tsantarliotis](https://www.linkedin.com/in/leo-tsantarliotis/)
-- Schedule a call: [cal.com/stackflowdigital](https://cal.com/stackflowdigital/discovery-call?utm_source=github&utm_medium=profile)
+- Free 30 min call: [cal.com/stackflowdigital](https://cal.com/stackflowdigital/discovery-call?utm_source=github&utm_medium=profile)
